@@ -1,3 +1,10 @@
+p{
+    border:10px solid red;
+    border-width: 10px 30px 50px;
+    padding: 30px;
+    margin: 40px;
+}
+
 .balra{
     text-align: left;
 }
